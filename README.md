@@ -1,0 +1,2 @@
+# Robot_Manipolatore_Planare_4R
+ROBOT MANIPOLATORE PLANARE 4R CON GRAVITÀ
